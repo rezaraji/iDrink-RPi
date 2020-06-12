@@ -1,0 +1,270 @@
+
+{
+  "MenuCollectionName": "Default Menu Collection",
+  "DateLastModified": "2020-06-01T06:43:34.520Z",
+  "BottleCount": 8,
+  "Menu": [
+    {
+      "MenuName": "Pool Party",
+      "MenuDescription": "Default Menu Description 1",
+      "Bottles": [
+        "Vodka",
+        "Tequilla",
+        "Rum",
+        "Orange",
+        "Lime",
+        "Grapefruit",
+        "Pomegranate",
+        "Pineapple"
+      ],
+      "Drink": [
+        {
+          "Name": "TEQUILA POMEGRANATE",
+          "Recipe": [
+            0,
+            20,
+            0,
+            0,
+            3,
+            0,
+            20,
+            0
+          ]
+        },
+        {
+          "Name": "VODKA POMEGRANATE",
+          "Recipe": [
+            20,
+            0,
+            0,
+            0,
+            3,
+            0,
+            21,
+            0
+          ]
+        },
+        {
+          "Name": "VODKA SHOT",
+          "Recipe": [
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "Name": "TEQUILA SHOT",
+          "Recipe": [
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "Name": "SCREWDRIVER",
+          "Recipe": [
+            20,
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+                {
+          "Name": "GREYHOUND",
+          "Recipe": [
+            20,
+            0,
+            0,
+            0,
+            3,
+            20,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "MenuName": "Kid's Ice Drinks",
+      "MenuDescription": "Default Menu Description 2",
+      "Bottles": [
+        "Strawberry",
+        "Raspberry",
+        "Blackberry",
+        "Peach",
+        "Lime",
+        "Mango",
+        "Passion Fruit",
+        "Water"
+      ],
+      "Drink": [
+        {
+          "Name": "Strawberry",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "Name": "Raspberry",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "MenuName": "Menu  3",
+      "MenuDescription": "Default Menu Description 3",
+      "Bottles": [
+        "Bottle1",
+        "Bottle2",
+        "Bottle3",
+        "Bottle4",
+        "Bottle5",
+        "Bottle6",
+        "Bottle7",
+        "Bottle8"
+      ],
+      "Drink": [
+        {
+          "Name": "Default Recipe Name 5",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "Name": "Default Recipe Name 6",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "MenuName": "Menu  4",
+      "MenuDescription": "Default Menu Description 4",
+      "Bottles": [
+        "Bottle1",
+        "Bottle2",
+        "Bottle3",
+        "Bottle4",
+        "Bottle5",
+        "Bottle6",
+        "Bottle7",
+        "Bottle8"
+      ],
+      "Drink": [
+        {
+          "Name": "Default Recipe Name 7",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "Name": "Default Recipe Name 8",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "MenuName": "Menu 5",
+      "MenuDescription": "Default Menu Description 5",
+      "Bottles": [
+        "Bottle1",
+        "Bottle2",
+        "Bottle3",
+        "Bottle4",
+        "Bottle5",
+        "Bottle6",
+        "Bottle7",
+        "Bottle8"
+      ],
+      "Drink": [
+        {
+          "Name": "Default Recipe Name 9",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "Name": "Default Recipe Name 10",
+          "Recipe": [
+            10,
+            20,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}
