@@ -8,4 +8,10 @@ TO AUTORUN on Raspberry Pi (and have access to your display, since a cron job (v
 
 Edit /home/pi/.config/lxsession/LXDE-pi/autostart and add the following line at the end:
 
-@sh /home/pi/iDrink/launcher.sh (where folder "iDrink contains the iDrink-RPi script, Menu.json and the launsher script)
+@sh /home/pi/iDrink/launcher.sh (where folder "iDrink" contains the iDrink-RPi script, Menu.json and the launcher script)
+
+Fearure ideas:
+1) Tweak drink - select a drink on themain page and allow the user to adjust ingredient amounts via sliders
+2) Bottle level sensors
+3) Light up the pumps that are on
+4) Edit the Menu file via the touchscreen
