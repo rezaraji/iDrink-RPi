@@ -7,4 +7,5 @@ Better, Stronger...Faster!
 TO AUTORUN on Raspberry Pi (and have access to your display, since a cron job (via crontab) will be in a non-interactive shell. There's no display for it to use):
 
 Edit /home/pi/.config/lxsession/LXDE-pi/autostart and add the following line at the end:
-@python /home/pi/iDrink/iDrink-RPi.py (where folder "iDrink contains the iDrink-RPi script, Menu.json and the launsher script)
+
+@sh /home/pi/iDrink/launcher.sh (where folder "iDrink contains the iDrink-RPi script, Menu.json and the launsher script)
