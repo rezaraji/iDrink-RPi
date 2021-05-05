@@ -15,3 +15,4 @@ Fearure ideas:
 2) Bottle level sensors
 3) Light up the pumps that are on
 4) Edit the Menu file via the touchscreen
+5) Mix drinks while pouring by rapidly switching between the pumps
