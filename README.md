@@ -11,7 +11,7 @@ Edit /home/pi/.config/lxsession/LXDE-pi/autostart and add the following line at 
 @sh /home/pi/iDrink/launcher.sh (where folder "iDrink" contains the iDrink-RPi script, Menu.json and the launcher script)
 
 Note: Raspbian is based on the LXDE desktop environment. As a result, the location of the autostart script might be different depending on your particular Linux computer and distribution version.
-After your desktop environment starts (LXDE-pi, in this case), it runs whatever commands it finds in the profile's autostart script, which is located at /home/pi/.config/lxsession/LXDE-pi/autostart for our Raspberry Pi. Note that the directory pi might be different if you created a new user for your Raspberry Pi. If no user autostart script is found, Linux will run the global /etc/xdg/lxsession/LXDE-pi/autostart script instead.
+After your desktop environment starts (LXDE-pi, in this case), it runs whatever commands it finds in the profile's autostart script, which is located at /home/pi/.config/lxsession/LXDE-pi/autostart for our Raspberry Pi. Note that the directory pi might be different if you created a new user for your Raspberry Pi. If no user autostart script is found, Linux will run the global /etc/xdg/lxsession/LXDE-pi/autostart script instead. In the latter's case use sudo to edit since the file is outside of the home/pi/ environment.
 
 Fearure ideas:
 1) Tweak drink - select a drink on themain page and allow the user to adjust ingredient amounts via sliders
