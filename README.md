@@ -13,7 +13,7 @@ Edit /home/pi/.config/lxsession/LXDE-pi/autostart and add the following line at 
 Note: Raspbian is based on the LXDE desktop environment. As a result, the location of the autostart script might be different depending on your particular Linux computer and distribution version.
 After your desktop environment starts (LXDE-pi, in this case), it runs whatever commands it finds in the profile's autostart script, which is located at /home/pi/.config/lxsession/LXDE-pi/autostart for our Raspberry Pi. Note that the directory pi might be different if you created a new user for your Raspberry Pi. If no user autostart script is found, Linux will run the global /etc/xdg/lxsession/LXDE-pi/autostart script instead. In the latter's case use sudo to edit since the file is outside of the home/pi/ environment.
 
-Fearure ideas:
+Feature ideas:
 1) Tweak drink - select a drink on themain page and allow the user to adjust ingredient amounts via sliders
 2) Bottle level sensors
 3) Light up the pumps that are on
